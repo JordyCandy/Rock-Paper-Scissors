@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau:ital@0;1&display=swap');
+
+body{
+    background-color: #C0DBEA;
+    font-family: 'Ysabeau', sans-serif;
+    font-weight: 100;
+}
+
+.btn{
+    padding: 10%;
+    border: 1px solid #A77979;
+    border-radius: 3%;
+    font-size: 1.5rem;
+    text-align: center;
+    color: #323232;
+}
+
+.clear{
+    margin-top: 3%;
+    position: absolute;
+    right: 39%;
+    width: 25%;
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 5%;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -3%;
+    font-size: 2rem;
+    color:#BA90C6;
+}
+
+.myClick{
+    font-size: 2rem;
+    margin-top: 5%;
+}
+
+.one{
+    background-color: #E8A0BF;
+}
+
+.reset{
+    width: 100%;
+    text-align: center;
+    background-color: #BA90C6;
+    color: #323232;
+    padding: 2% 0 2% 0;
+    border: solid 1px #A77979;
+    font-size: 1.3rem;
+    border-radius: 2%;
+}
+/*#FDF4F5;*/
+.three{
+    background-color: #f6f1f2;
+}
+
+.two{
+    background-color: #BA90C6;
+}
